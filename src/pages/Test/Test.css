@@ -1,0 +1,9 @@
+.test-tasks__title {
+  margin: 40px 0 !important;
+}
+
+.test-buttons {
+  display: flex;
+  justify-content: end;
+  margin-top: 20px;
+}

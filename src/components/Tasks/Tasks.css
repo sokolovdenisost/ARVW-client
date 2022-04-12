@@ -1,0 +1,12 @@
+.tasks {
+  width: 100%;
+}
+
+.task-answer {
+  display: flex;
+  align-items: center;
+}
+
+.task-answer__title {
+  margin-right: 10px;
+}

@@ -1,0 +1,7 @@
+.results {
+  margin-bottom: 20px;
+}
+
+.results:last-child {
+  margin-bottom: 0;
+}
